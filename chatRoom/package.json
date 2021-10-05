@@ -21,7 +21,7 @@
     "fastify-formbody": "^3.1.0",
     "fastify-jwt": "^0.10.0",
     "fastify-multer": "^1.4.2",
-    "fastify-static": "^2.4.0",
+    "fastify-static": "^4.2.4",
     "frameguard": "^3.1.0",
     "hide-powered-by": "^1.0.0",
     "hsts": "^2.2.0",
